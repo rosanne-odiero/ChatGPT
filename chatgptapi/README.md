@@ -16,6 +16,6 @@ You may also see any lint errors in the console.
 
 ### node index.js
 
-This command runs the project and you can ask the chatbot anything and it will respond in form of a motivation.
+This command runs the project 
 
 I will be upgrading it later.
